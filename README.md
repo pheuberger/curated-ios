@@ -47,3 +47,8 @@
 
 
 # Testing
+**Talks:**
+
+* [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) by Ash Furrow
+
+> Overview of different testing strategies. Be sure to check out the open-sourced Artsy apps and see their approaches.
