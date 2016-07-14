@@ -30,11 +30,20 @@
 
 > He talks about how to decide which architectural approach to use as there are multiple ways to approach this topic with various pros and cons.
 
+
 # Swift
 ### Protocol-Extensions
 **Talks:**
 
 * [Protocol Extensions: A History](https://realm.io/news/tryswift-matthew-gillingham-protocol-extensions-history/) by Matthew Gillingham
 * [Practical Protocol-Oriented Programming](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/) by Natasha Murashev
+
+### Functional Programming
+**Articles**
+
+* [Swift Functors, Applicatives and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+
+> Makes understanding those concepts so much easier.
+
 
 # Testing
