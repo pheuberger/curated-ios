@@ -5,7 +5,7 @@
 
 # Architecture
 ### MVVM-C
-**Talks:**
+**Talks**
 
 * [MVVM-C in Practice](https://www.youtube.com/watch?v=9VojuJpUuE8) by Steve "Scotty" Scott
 
@@ -13,14 +13,14 @@
 > ViewControllers into Coordinator objects.
 > This improves separation of concerns.
 
-**Sample Projects:**
+**Sample Projects**
 
 * [Steve Scotts Demo Project for his Talk MVVM-C in Practice](https://github.com/macdevnet/mvvmc-demo)
 
 
 # Frameworks
 ### Core Data
-**Talks:**
+**Talks**
 
 * [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) by Daniel Eggert
 
@@ -33,7 +33,7 @@
 
 # Swift
 ### Protocol-Extensions
-**Talks:**
+**Talks**
 
 * [Protocol Extensions: A History](https://realm.io/news/tryswift-matthew-gillingham-protocol-extensions-history/) by Matthew Gillingham
 * [Practical Protocol-Oriented Programming](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/) by Natasha Murashev
@@ -47,8 +47,13 @@
 
 
 # Testing
-**Talks:**
+**Talks**
 
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) by Ash Furrow
 
 > Overview of different testing strategies. Be sure to check out the open-sourced Artsy apps and see their approaches.
+
+
+# License
+MIT (See `LICENSE` file)
+I don't know if this is even necessary but it surely doesn't hurt, does it? :squirrel:
