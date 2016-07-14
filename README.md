@@ -26,6 +26,9 @@
 
 > Lots of code examples how to improve the Core Data API by wrapping it into modern Swift.
 
+* [Pragmatic Core Data](https://realm.io/news/cocoaheads-florian-kugler-pragmatic-core-data/) by Florian Kugler
+
+> He talks about how to decide which architectural approach to use as there are multiple ways to approach this topic with various pros and cons.
 
 # Swift
 ### Protocol-Extensions
