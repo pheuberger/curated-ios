@@ -45,6 +45,12 @@
 
 > Makes understanding those concepts so much easier.
 
+### Generics in practice
+**Talks**
+
+* [Table View Controllers in Swift](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/) by Chris Eidhof
+
+> Make Table View Controllers generic and pull out a configuration struct to simplify the controller's initializer 
 
 # Testing
 **Talks**
