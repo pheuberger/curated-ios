@@ -52,6 +52,12 @@
 
 > Make Table View Controllers generic and pull out a configuration struct to simplify the controller's initializer 
 
+### Misc
+**Articles**
+
+* [Weak, Strong, Unowned, Oh my!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) by Hector Matos
+
+
 # Testing
 **Talks**
 
