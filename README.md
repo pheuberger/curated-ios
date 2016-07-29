@@ -42,7 +42,9 @@
 
 ### Misc
 * [Weak, Strong, Unowned, Oh my!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) :book: by Hector Matos
+* [Grokking Lazy Sequences & Collections](https://realm.io/news/slug-brandon-kase-grokking-lazy-sequences-collections/) :vhs: by Brandon Kase
 
+> Building custom collections around huge sets of data that are fast to map, filter, reduce by deferring those operations until they are needed
 
 # Testing
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) :vhs: by Ash Furrow
