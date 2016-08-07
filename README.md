@@ -46,6 +46,10 @@
 
 > Building custom collections around huge sets of data that are fast to map, filter, reduce by deferring those operations until they are needed
 
+* [Swift Scripting Redux: Localizations](https://realm.io/news/altconf-ayaka-nonaka-swift-scripting-redux-localization) :vhs: by Ayaka Nonaka
+
+> Improving the internationalization process by declaring a custom `WFLocalizedString` method and scripting a string file generator in Swift
+
 # Testing
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) :vhs: by Ash Furrow
 
