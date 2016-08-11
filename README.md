@@ -41,7 +41,10 @@
 > Make Table View Controllers generic and pull out a configuration struct to simplify the controller's initializer 
 
 ### Misc
-* [Weak, Strong, Unowned, Oh my!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) :book: by Hector Matos
+* [Weak, Strong, Unowned, Oh my!](http://krakendev.io/blog/weak-and-unowned-references-in-swift) :book: by Hector Matos 
+
+> How to tackle retain cycles in Swift
+
 * [Grokking Lazy Sequences & Collections](https://realm.io/news/slug-brandon-kase-grokking-lazy-sequences-collections/) :vhs: by Brandon Kase
 
 > Building custom collections around huge sets of data that are fast to map, filter, reduce by deferring those operations until they are needed
