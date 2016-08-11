@@ -50,6 +50,10 @@
 
 > Improving the internationalization process by declaring a custom `WFLocalizedString` method and scripting a string file generator in Swift
 
+* [Prototyping Magic](https://realm.io/news/tryswift-adam-bell-prototyping-magic/) :vhs: by Adam Bell
+
+> How animations can drastically improve the user experience and hands-on example how to prototype those in a playground with the [facebook/pop](https://github.com/facebook/pop) library
+
 # Testing
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) :vhs: by Ash Furrow
 
