@@ -57,6 +57,10 @@
 
 > How animations can drastically improve the user experience and hands-on example how to prototype those in a playground with the [facebook/pop](https://github.com/facebook/pop) library
 
+* [Discovering Native Swift Patterns](https://realm.io/news/slug-nick-oneill-native-swift-patterns/) :vhs: by Nick Oneill
+
+> Shows a wide variety of good Swift patterns. The biggest take-away is don't get too clever with your code. There's a chance other developers might stumble over it.
+
 # Testing
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) :vhs: by Ash Furrow
 
