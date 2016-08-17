@@ -24,6 +24,10 @@
 
 > He talks about how to decide which architectural approach to use as there are multiple ways to approach this topic with various pros and cons.
 
+* [Futures and Promises, or how I learned to stop worrying and love the GCD](https://realm.io/news/altconf-michael-gray-futures-promises-gcd) :vhs: by Michael Gray
+
+> Stop using callback closures and start using Futures. It does go well with Reactive Programming.
+
 
 # Swift
 ### Protocol-Extensions
