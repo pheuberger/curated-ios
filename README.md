@@ -39,6 +39,10 @@
 
 > Makes understanding those concepts so much easier.
 
+* [Sort Descriptors in Swift](http://chris.eidhof.nl/post/sort-descriptors-in-swift/) :book: by Chris Eidhof
+
+> Great writeup of functional alternatives to runtime dynamism. Also see the lift operator; really handy.
+
 ### Generics in practice
 * [Table View Controllers in Swift](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/) :vhs: by Chris Eidhof
 
