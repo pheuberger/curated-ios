@@ -13,6 +13,10 @@
 
 * [Steve Scotts Demo Project for his Talk MVVM-C in Practice](https://github.com/macdevnet/mvvmc-demo) :file_folder:
 
+* [Unidirectional Data Flow in Swift](https://realm.io/news/benji-encz-unidirectional-data-flow-swift) :vhs: by Benjamin Encz
+
+> Talks about Redux in Swift and global app state that can be mutated through actions much like a state machine.
+
 
 # Frameworks
 ### Core Data
