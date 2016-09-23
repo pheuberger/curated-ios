@@ -38,6 +38,7 @@
 * [Protocol Extensions: A History](https://realm.io/news/tryswift-matthew-gillingham-protocol-extensions-history/) :vhs: by Matthew Gillingham
 * [Practical Protocol-Oriented Programming](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/) :vhs: by Natasha Murashev
 
+
 ### Functional Programming
 * [Swift Functors, Applicatives and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/) :book:
 
@@ -72,6 +73,11 @@
 * [Discovering Native Swift Patterns](https://realm.io/news/slug-nick-oneill-native-swift-patterns/) :vhs: by Nick Oneill
 
 > Shows a wide variety of good Swift patterns. The biggest take-away is don't get too clever with your code. There's a chance other developers might stumble over it.
+
+* [Working with JSON in Swift](https://developer.apple.com/swift/) :book: by Apple
+
+> Good writeup about properly do JSON parsing with validation by hand and why using convenient reflection based JSON parsers might not always be the best choice.
+
 
 # Testing
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) :vhs: by Ash Furrow
