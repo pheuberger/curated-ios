@@ -78,6 +78,10 @@
 
 > Good writeup about properly do JSON parsing with validation by hand and why using convenient reflection based JSON parsers might not always be the best choice.
 
+* [Controlling Complexity in Swift](https://realm.io/news/andy-matuschak-controlling-complexity/) :vhs: by Andy Matuschek
+
+> Advocates to use value types over reference types. In essence this describes 'Functional Core, Imparative Shell'.
+
 
 # Testing
 * [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/) :vhs: by Ash Furrow
